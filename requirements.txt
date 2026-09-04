@@ -1,3 +1,0 @@
-hydrogram
-tgcrypto
-aiohttp
